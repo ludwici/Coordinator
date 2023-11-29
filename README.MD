@@ -1,10 +1,12 @@
 ### What this?
 Coordinator it's a simple tool for displaying normalized texture coordinates. It will be used in <TexCoord> xml-tag in you addons
 ### How to usage
-Just run `Coordinator.exe` and select any image  
+Download from [Releases](https://github.com/ludwici/Coordinator/releases)  
+`Coordinator` for linus users, `Coordinator.exe` for win users  
+Just run `Coordinator` and select any image  
 Supported formats: `png`, `jpg`, `tga`, `blp`  
 Also you can run Coordinator from cmd:
-`Coordinator.exe path_to_image` and then tool open you image  
+`Coordinator path_to_image` and then tool opens you image  
 ![](https://i.imgur.com/1sLA4or.gif)
 
 You can put your coords in `TexCoords` field and press `Apply` button, to shown selected rectangle
@@ -17,4 +19,4 @@ You can use some my scripts for this.
 1.1. If you modified `*.ui` file, use `ui_converter` script for converting to python-file  
 1.2. If modified resources file (`res/res.qrc`), run `res_converter`  
 2. Run `main.py` to start program
-3. Run `create_exe.bat` to make executable file
+3. Run `create_exe` to make executable file
