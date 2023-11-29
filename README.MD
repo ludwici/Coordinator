@@ -5,7 +5,9 @@ Just run `Coordinator.exe` and select any image
 Supported formats: `png`, `jpg`, `tga`, `blp`  
 Also you can run Coordinator from cmd:
 `Coordinator.exe path_to_image` and then tool open you image  
-![](https://i.imgur.com/d9ceNkz.gif)
+![](https://i.imgur.com/1sLA4or.gif)
+
+You can put your coords in `TexCoords` field and press `Apply` button, to shown selected rectangle
 
 ### Does this simple tool size more than 40 megabytes?
 Because exe file contains everything needed to run pyQt project
