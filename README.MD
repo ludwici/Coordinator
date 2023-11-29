@@ -2,7 +2,7 @@
 Coordinator it's a simple tool for displaying normalized texture coordinates. It will be used in <TexCoord> xml-tag in you addons
 ### How to usage
 Download from [Releases](https://github.com/ludwici/Coordinator/releases)  
-`Coordinator` for linus users, `Coordinator.exe` for win users  
+`Coordinator` for linux users, `Coordinator.exe` for win users  
 Just run `Coordinator` and select any image  
 Supported formats: `png`, `jpg`, `tga`, `blp`  
 Also you can run Coordinator from cmd:
